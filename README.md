@@ -181,7 +181,7 @@ A pesquisa realizada com profissionais da saúde continha 15+ respostas e abordo
 
 ## 📚 Licença
 
-Este projeto foi desenvolvido exclusivamente para fins acadêmicos na disciplina **Programação para Dispositivos Móveis (PDM)** — FEI.
+Este projeto foi desenvolvido exclusivamente para fins acadêmicos na disciplina **Programação para Dispositivos Móveis (PDM)** — USCS.
 
 ---
 
